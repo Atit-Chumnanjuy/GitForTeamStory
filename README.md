@@ -5,21 +5,16 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ---
 
-## Our Wonderful Story
+## Our Truly Chaotic (But Now Wonderful) Story
 
-1. Once upon a time, there was a **castle**.  
+1. Once upon a time, there was a majestic, ancient **castle** that stood peacefully on a hill.  
    ![castle](./img/castle.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a 
-   ![dragon](./img/dragon.png)
-**robot**?  
-   (Nobody is sure yet.)
-   ![robot](./img/.png)
+2. Then suddenly, a fearsome dragon appeared in the sky! Or… wait. As it got closer, everyone noticed a distinct metallic clanking sound and a Wi-Fi antenna blinking between its horns. It turns out it was actually a **Mecha-Dragon robot**, sent from the future!
 
-3. The scientist shouted something very important but nobody wrote it down.  
+3. Before anyone could panic, the eccentric royal scientist sprinted out of the courtyard, waving his arms frantically. He looked up at the robotic beast and shouted something incredibly important: **"Change the default password from admin123 to literally anything else!"** Unfortunately, nobody wrote it down, and the Mecha-Dragon immediately hacked the castle's mainframe. 
 
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a …  
-   ![treasure chest](./img/treasure_large.png)
+4. The dragon's security breach triggered a massive quantum glitch. With a loud ZAP, everyone was instantly teleported away. When the smoke cleared, the group found themselves stranded in a mysterious wilderness right next to a glowing, **ancient treasure chest**. 
 
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
