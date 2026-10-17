@@ -8,7 +8,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 ## Our Truly Chaotic (But Now Wonderful) Story
 
 1. Once upon a time, there was a majestic, ancient **castle** that stood peacefully on a hill.  
-   (Add new castle image)
+   ![castle](./img/castle.png)
 
 2. Then suddenly, a fearsome dragon appeared in the sky! Or… wait. As it got closer, everyone noticed a distinct metallic clanking sound and a Wi-Fi antenna blinking between its horns. It turns out it was actually a **Mecha-Dragon robot**, sent from the future!
 
